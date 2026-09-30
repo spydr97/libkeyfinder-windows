@@ -1,0 +1,11 @@
+{
+  "name": "kfcli",
+  "version": "1.0.0",
+  "description": "Command-line musical-key detector wrapping libKeyFinder (static Windows build).",
+  "homepage": "https://github.com/mixxxdj/libkeyfinder",
+  "license": "GPL-3.0-or-later",
+  "builtin-baseline": "b3ae22aef2b857af6e80d756c13f15db12be4e8a",
+  "dependencies": [
+    "libkeyfinder"
+  ]
+}
